@@ -102,4 +102,4 @@ venv.bak/
 .ropeproject
 
 # mkdocs documentation
-.mov
+*.mov
